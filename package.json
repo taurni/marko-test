@@ -7,6 +7,9 @@
     "gulp": "^3.9.0",
     "gulp-debug": "^2.1.2",
     "gulp-load-plugins": "^1.2.0",
-    "gulp-marko": "^0.1.0"
+    "gulp-marko": "^0.1.0",
+    "marko": "^2.8.2",
+    "merge-stream": "^1.0.0",
+    "through2": "^2.0.0"
   }
 }
