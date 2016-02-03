@@ -1,0 +1,12 @@
+{
+  "name": "msk",
+  "version": "0.0.0",
+  "dependencies": {},
+  "devDependencies": {
+    "browser-sync": "^2.11.1",
+    "gulp": "^3.9.0",
+    "gulp-debug": "^2.1.2",
+    "gulp-load-plugins": "^1.2.0",
+    "gulp-marko": "^0.1.0"
+  }
+}
